@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Ling Myat Aung</h2>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **Myansan E-commerce**
+- 🔭 I’m currently working on **MyanSan E-commerce**
 
 - 🌱 I’m currently learning **VueJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LingMyat?tab=repositories](https://github.com/LingMyat?tab=repositories)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel/Jquery/Js**
 
 - 📫 How to reach me **https://www.facebook.com/ling.myat.3/**
 
