@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LingMyat?tab=repositories](https://github.com/LingMyat?tab=repositories)
 
-- 💬 Ask me about **Laravel/Jquery/Js**
+- 💬 Ask me about **Laravel/Jquery/JS**
 
 - 📫 How to reach me **https://www.facebook.com/ling.myat.3/**
 
