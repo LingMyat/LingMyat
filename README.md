@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MyanSan E-commerce**
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **VueJs & API Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LingMyat?tab=repositories](https://github.com/LingMyat?tab=repositories)
 
