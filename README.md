@@ -51,7 +51,7 @@
 <br/>  
 
 ## Github Stats 
-<div style="display:flex;">
+<div >
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingMyat&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
