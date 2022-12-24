@@ -16,7 +16,8 @@
 
 <br/>
 
-<div>
+<div style="margin:10px">
+  
 ## My Skill Set  
 <table ><tr><td valign="top" width="">
   
