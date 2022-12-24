@@ -2,7 +2,13 @@
 
 ### I am junior Web Developer🚀
 
-<img  align="right"   src="https://media0.giphy.com/media/4NCTxxmZuCW4w15yFC/giphy.gif?cid=790b7611a49100c2ab7fdee27238dce239c936815666d59b&rid=giphy.gif&ct=g" height="" width="270" /> 
+<img  align="right"   src="https://media0.giphy.com/media/4NCTxxmZuCW4w15yFC/giphy.gif?cid=790b7611a49100c2ab7fdee27238dce239c936815666d59b&rid=giphy.gif&ct=g" height="" width="260" /> 
+img[src$="https://media0.giphy.com/media/4NCTxxmZuCW4w15yFC/giphy.gif?cid=790b7611a49100c2ab7fdee27238dce239c936815666d59b&rid=giphy.gif&ct=g"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
 
 - 🔭 I’m currently working on **[MyanSan E-commerce](http://myansan.com.mm)**
 
