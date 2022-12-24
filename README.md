@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋, I'm Ling Myat Aung</h2>
-<h3 align="left">I am junior Web Developer</h3>
+### I am junior Web Developer🚀
+<img align="right" src="https://dxbcode.com/assets/images/39998-web-development.gif" align="left" height="" width="300" /> 
 
-- 🔭 I’m currently working on **MyanSan E-commerce**
+- 🔭 I’m currently working on **[MyanSan E-commerce](http://myansan.com.mm)**
 
 - 🌱 I’m currently learning **VueJs & API Development**
 
