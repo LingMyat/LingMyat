@@ -16,6 +16,7 @@
 
 <br/>
 
+<div>
 ## My Skill Set  
 <table ><tr><td valign="top" width="">
   
@@ -48,6 +49,8 @@
   
  </td></tr></table> 
  
+</div>
+
 <br/>  
 
 ## Github Stats 
