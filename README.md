@@ -2,7 +2,7 @@
 
 ### I am junior Web Developer🚀
 
-<img  align="right" border-radius = "10"  src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" height="" width="300" /> 
+<img  align="right" border-radius = "10"  src="https://media0.giphy.com/media/4NCTxxmZuCW4w15yFC/giphy.gif?cid=790b7611a49100c2ab7fdee27238dce239c936815666d59b&rid=giphy.gif&ct=g" height="" width="300" /> 
 
 - 🔭 I’m currently working on **[MyanSan E-commerce](http://myansan.com.mm)**
 
