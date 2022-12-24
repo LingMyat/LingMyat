@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **VueJs & API Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LingMyat?tab=repositories](https://github.com/LingMyat?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Here...](https://github.com/LingMyat?tab=repositories)**
 
 - 💬 Ask me about **Laravel/Jquery/JS**
 
-- 📫 How to reach me **https://www.facebook.com/ling.myat.3/**
+- 📫 How to reach me **[email](mailto:lingmyataung@outlook.com)**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingMyat&show_icons=true&theme=tokyonight)
 
