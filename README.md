@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[email](mailto:lingmyataung@outlook.com)**
 
-<br>
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="">
@@ -46,7 +46,11 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 </div>
   
-  
+ </td></tr></table> 
+ 
+<br/>  
+
+## Github Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingMyat&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
