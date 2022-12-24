@@ -2,7 +2,7 @@
 
 ### I am junior Web Developer🚀
 
-<img style='margin-bottom:10px;' align="right"  src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif" align="left" height="" width="300" /> 
+<img  align="right"  src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif" align="left" height="" width="300" /> 
 
 - 🔭 I’m currently working on **[MyanSan E-commerce](http://myansan.com.mm)**
 
@@ -17,7 +17,7 @@
 <br/>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="">
+<table style='margin-top:5px;'><tr><td valign="top" width="">
   
 ### Frontend  
 <div align="">    
