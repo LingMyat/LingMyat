@@ -35,8 +35,6 @@
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   -->
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="SOCKET.IO" height="50" /></a>
-<a href="https://pusher.com/" target="_blank"><img style="margin: 10px" src="https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg" alt="PUSHER" height="50" /></a>
 </div>
 
 </td><td valign="top" width="">
