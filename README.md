@@ -1,5 +1,3 @@
-
-
 <h2 align="center">Hi 👋, I'm Ling Myat Aung</h2>
 
 ### I am junior Web Developer🚀
@@ -43,11 +41,11 @@
 
 </td><td valign="top" width="">
 
-    ### Realtime
-    <div align="">
-    <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="SOCKET.IO" height="50" /></a>
-    <a href="https://pusher.com/" target="_blank"><img style="margin: 10px" src="https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg" alt="PUSHER" height="50" /></a>
-    </div>
+### Realtime
+<div align="">
+<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="SOCKET.IO" height="50" /></a>
+<a href="https://pusher.com/" target="_blank"><img style="margin: 10px" src="https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg" alt="PUSHER" height="50" /></a>
+</div>
 
 </td><td valign="top" width="">
 
