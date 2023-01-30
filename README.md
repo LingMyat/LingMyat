@@ -22,10 +22,10 @@
 
 ### Frontend
 <div align="">
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="45" /></a>
 </div>
 
@@ -40,6 +40,14 @@
 <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="SOCKET.IO" height="50" /></a>
 <a href="https://pusher.com/" target="_blank"><img style="margin: 10px" src="https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg" alt="PUSHER" height="50" /></a>
 </div>
+
+</td><td valign="top" width="">
+
+    ### Realtime
+    <div align="">
+    <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="SOCKET.IO" height="50" /></a>
+    <a href="https://pusher.com/" target="_blank"><img style="margin: 10px" src="https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg" alt="PUSHER" height="50" /></a>
+    </div>
 
 </td><td valign="top" width="">
 
