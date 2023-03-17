@@ -3,7 +3,7 @@
 ### I am junior Web Developer🚀
 
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **VueJs & Linux**
 
 - 👨‍💻 All of my projects are available at **[Here...](https://github.com/LingMyat?tab=repositories)**
 
