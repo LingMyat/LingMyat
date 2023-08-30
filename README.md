@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Ling Myat Aung</h2>
 
-### I am junior Web Developer🚀
+### I am FullStack Developer🚀
 
 
-- 🌱 I’m currently learning **VueJs & Linux**
+- 🌱 I’m currently learning **React Native & Linux**
 
 - 👨‍💻 All of my projects are available at **[Here...](https://github.com/LingMyat?tab=repositories)**
 
