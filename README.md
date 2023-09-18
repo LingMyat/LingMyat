@@ -3,11 +3,11 @@
 ### I am FullStack Developer🚀
 
 
-- 🌱 I’m currently learning **React Native & Linux**
+- 🌱 I’m currently learning **React Native & Node Js**
 
 - 👨‍💻 All of my projects are available at **[Here...](https://github.com/LingMyat?tab=repositories)**
 
-- 💬 Ask me about **Laravel/Jquery/JS**
+- 💬 Ask me about **Laravel/Vue-Js**
 
 - 📫 How to reach me **[email](mailto:lingmyataung@outlook.com)**
 
