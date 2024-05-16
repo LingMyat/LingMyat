@@ -1,4 +1,4 @@
-<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-a5d207c871586be5b0b14f74fc10b5601c61b5e1a55a4ebfeb57d10fe665448f_d46746bbc4dbc0cd.gif" width="50%"/>
+<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-12e70ba7c42d615cd2e8be0d4513510a32960898d2a51d17497b025a3c9a9975_613f40b126c3b903.gif" width="100%"/>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
