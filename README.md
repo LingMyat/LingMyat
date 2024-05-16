@@ -28,7 +28,5 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### [My Portfolio](https://lingmyataung.vercel.app)
-```
-Experienced full-stack developer from Myanmar with over 2 years of job expertise in Php, Laravel and Vue.js. 
-Ready to create innovative web solutions!
-```
+
+<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-a5d207c871586be5b0b14f74fc10b5601c61b5e1a55a4ebfeb57d10fe665448f_d46746bbc4dbc0cd.gif" width="50%"/>
