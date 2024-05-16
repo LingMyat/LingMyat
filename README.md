@@ -1,4 +1,4 @@
-<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-12e70ba7c42d615cd2e8be0d4513510a32960898d2a51d17497b025a3c9a9975_613f40b126c3b903.gif" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Ling+Myat.;I'm+a+full-stack+developer." alt="typing intro">
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
