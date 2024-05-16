@@ -1,3 +1,5 @@
+<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-a5d207c871586be5b0b14f74fc10b5601c61b5e1a55a4ebfeb57d10fe665448f_d46746bbc4dbc0cd.gif" width="50%"/>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -28,5 +30,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### [My Portfolio](https://lingmyataung.vercel.app)
-
-<img src="https://github.com/LingMyat/LingMyat/blob/main/0-02-06-a5d207c871586be5b0b14f74fc10b5601c61b5e1a55a4ebfeb57d10fe665448f_d46746bbc4dbc0cd.gif" width="50%"/>
