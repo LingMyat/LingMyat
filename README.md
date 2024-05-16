@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Ling+Myat.;I'm+a+full-stack+developer." alt="typing intro">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=64CE7C&vCenter=true&random=false&width=600&height=30&lines=Hello+everyone!!!;My+name+is+Ling+Myat.;Experienced+full-stack+developer+from+Myanmar.;With+over+2+years+of+job+expertise.)](https://git.io/typing-svg)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
